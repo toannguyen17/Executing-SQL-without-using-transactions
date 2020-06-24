@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Executing-SQL-without-using-transactions:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Executing_SQL_without_using_transactions_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Executing-SQL-without-using-transactions/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Executing-SQL-without-using-transactions" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
